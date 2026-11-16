@@ -11,19 +11,18 @@ z2
 cModel Technology
 Z0 d/home/thanhvuong/AXI4_Lite/sim
 T_opt
-!s110 1794853159
-Vd4Hz_n`;RXLi[U?5@^;3L2
+!s110 1794853857
+VKXmMU4c=_IoY>FbWMOIo:0
 04 17 4 work tb_axi4_lite_regs fast 0
-=1-000ae431a4f1-6afb4927-32830-5bf0
+=1-000ae431a4f1-6afb4be0-db551-602e
 !s124 OEM100
 o-quiet -auto_acc_if_foreign -work work
 Z1 tCvgOpt 0
 n@_opt
 OL;O;2021.2_1;73
-R0
 vaxi4_lite_regs
 Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z3 !s110 1794853222
+Z3 !s110 1794853853
 !i10b 1
 !s100 zgM;8Z;d=4>Q>mi7W0fG=0
 I06W[><E<T7_2Z@VfVJGY=1
@@ -32,19 +31,19 @@ R0
 w1794852485
 8../rtl/axi4_lite_regs.sv
 F../rtl/axi4_lite_regs.sv
-!i122 2
+!i122 1
 L0 11 140
 Z4 VDg1SIo80bB@j0V0VzS_@n1
 Z5 OL;L;2021.2_1;73
 r1
 !s85 0
 31
-Z6 !s108 1794853222.000000
-!s107 ../tb/tb_axi4_lite_regs.sv|../rtl/axi4_lite_regs.sv|
-Z7 !s90 -sv|-O0|+acc=rn|-work|work|-f|compile.f|-l|compile.log|
+Z6 !s108 1794853853.000000
+Z7 !s107 ../tb/tb_axi4_lite_regs.sv|../rtl/axi4_lite_regs.sv|
+Z8 !s90 -sv|-O0|+acc=rn|-work|work|-f|compile.f|-l|compile.log|
 !s101 -O0
 !i113 0
-Z8 o-sv -O0 +acc=rn -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 o-sv -O0 +acc=rn -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R1
 vtb_axi4_lite_regs
 R2
@@ -57,7 +56,7 @@ R0
 w1794853220
 8../tb/tb_axi4_lite_regs.sv
 F../tb/tb_axi4_lite_regs.sv
-!i122 2
+!i122 1
 L0 3 188
 R4
 R5
@@ -65,9 +64,9 @@ r1
 !s85 0
 31
 R6
-Z9 !s107 ../tb/tb_axi4_lite_regs.sv|../rtl/axi4_lite_regs.sv|
 R7
+R8
 !s101 -O0
 !i113 0
-R8
+R9
 R1

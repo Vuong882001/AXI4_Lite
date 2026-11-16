@@ -1,10 +1,10 @@
 QuestaSim-64 vlog 2021.2_1 Compiler 2021.05 May 15 2021
-Start time: 01:20:22 on Nov 17,2026
+Start time: 01:30:53 on Nov 17,2026
 vlog -sv -O0 "+acc=rn" -work work -f compile.f -l compile.log 
 -- Compiling module axi4_lite_regs
 -- Compiling module tb_axi4_lite_regs
 
 Top level modules:
 	tb_axi4_lite_regs
-End time: 01:20:22 on Nov 17,2026, Elapsed time: 0:00:00
+End time: 01:30:53 on Nov 17,2026, Elapsed time: 0:00:00
 Errors: 0, Warnings: 0
