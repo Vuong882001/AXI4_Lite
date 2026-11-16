@@ -1,0 +1,73 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2_1 2021.05, May 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/thanhvuong/AXI4_Lite/sim
+T_opt
+!s110 1794853159
+Vd4Hz_n`;RXLi[U?5@^;3L2
+04 17 4 work tb_axi4_lite_regs fast 0
+=1-000ae431a4f1-6afb4927-32830-5bf0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2_1;73
+R0
+vaxi4_lite_regs
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1794853222
+!i10b 1
+!s100 zgM;8Z;d=4>Q>mi7W0fG=0
+I06W[><E<T7_2Z@VfVJGY=1
+S1
+R0
+w1794852485
+8../rtl/axi4_lite_regs.sv
+F../rtl/axi4_lite_regs.sv
+!i122 2
+L0 11 140
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z6 !s108 1794853222.000000
+!s107 ../tb/tb_axi4_lite_regs.sv|../rtl/axi4_lite_regs.sv|
+Z7 !s90 -sv|-O0|+acc=rn|-work|work|-f|compile.f|-l|compile.log|
+!s101 -O0
+!i113 0
+Z8 o-sv -O0 +acc=rn -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_axi4_lite_regs
+R2
+R3
+!i10b 1
+!s100 DzBYhbj49bLHCK@N2k@XM2
+I2lMJMN@D]?fY3S:>?0GZH0
+S1
+R0
+w1794853220
+8../tb/tb_axi4_lite_regs.sv
+F../tb/tb_axi4_lite_regs.sv
+!i122 2
+L0 3 188
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../tb/tb_axi4_lite_regs.sv|../rtl/axi4_lite_regs.sv|
+R7
+!s101 -O0
+!i113 0
+R8
+R1
